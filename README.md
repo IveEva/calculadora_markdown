@@ -1801,9 +1801,13 @@
 </body>
 </html>
 ```
-![Actividad_06_microprocesador_6502](https://github.com/user-attachments/assets/e48a975e-0d52-41b4-aae5-80e795e6eed6)
+
 
 [image_alt](https://github.com/IveEva/calculadora_markdown/blob/655a45f2953484f67e77ab310febc1c9cf826a76/microprocesador%206502.jpg)
+
+
+![Actividad_06_microprocesador_6502](https://github.com/user-attachments/assets/e48a975e-0d52-41b4-aae5-80e795e6eed6)
+
 # Tareas pendientes:
 - [x] Añadir funciones de memoria.
 - [ ] Imcluir conversión de binario a hex.
