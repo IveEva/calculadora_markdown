@@ -1801,7 +1801,7 @@
 </body>
 </html>
 ```
-
+[image_alt](https://github.com/IveEva/calculadora_markdown/blob/655a45f2953484f67e77ab310febc1c9cf826a76/microprocesador%206502.jpg?raw=true)
 # Tareas pendientes:
 - [x] Añadir funciones de memoria.
 - [ ] Imcluir conversión de binario a hex.
