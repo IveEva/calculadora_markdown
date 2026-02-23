@@ -1801,3 +1801,8 @@
 </body>
 </html>
 ```
+
+# Tareas pendientes:
+- [x] Añadir funciones de memoria.
+- [ ] Imcluir conversión de binario a hex.
+- [ ] Añadir pin de usuario.
